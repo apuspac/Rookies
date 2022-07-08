@@ -5,6 +5,7 @@
 aaa~~~
 test
 Test0708
+Githubむずい
 
 
 ## 格ゲーに必要な要素
