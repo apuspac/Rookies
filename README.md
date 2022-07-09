@@ -5,7 +5,8 @@
 aaa~~~
 test
 Test0708
-Githubむずい
+Githubむずい 
+takairadesu
 
 
 ## 格ゲーに必要な要素
